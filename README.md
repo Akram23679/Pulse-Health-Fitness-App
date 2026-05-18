@@ -10,7 +10,7 @@ Tracks steps, workouts, sleep, hydration and more — all 100% free.
 <!-- Add your screenshots here -->
 | Home | Fitness | Me | Sleep |
 |------|---------|-----|-------|
-| ![Home](screenshots/home.png) | ![Fitness](screenshots/fitness.png) | ![Me](screenshots/me.png) | ![Sleep](screenshots/sleep.png) |
+| ![Home]() | ![Fitness]() | ![Me]() | ![Sleep](>) |
 
 ---
 
@@ -89,3 +89,13 @@ pulse_health/
 ├── lib/
 ├── android/
 └── pubspec.yaml
+
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-19 at 01 27 09" src="https://github.com/user-attachments/assets/a0c736fc-a7fe-4fca-89a6-3eebf8ec23b6" />
+<img width="613" height="1600" alt="WhatsApp Image 2026-05-19 at 01 27 09 (1)" src="https://github.com/user-attachments/assets/b1e2ddde-06e7-46c7-8d57-d7d730a5d711" />
+<img width="613" height="1600" alt="WhatsApp Image 2026-05-19 at 01 27 09 (2)" src="https://github.com/user-attachments/assets/1146fdab-0ad8-4019-9cda-1b294aafe56b" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-19 at 01 27 10" src="https://github.com/user-attachments/assets/c0868a54-64dd-4bdd-b878-3ab415efe54e" />
+<img width="738" height="1600" alt="Home" src="https://github.com/user-attachments/assets/0c0a733d-6375-47bf-9dae-dc2ab4d74736" />
+<img width="738" height="1600" alt="Sleep" src="https://github.com/user-attachments/assets/8ef26d25-eead-4b5b-aff8-0d55da7ab781" />
+<img width="738" height="1600" alt="Fitness" src="https://github.com/user-attachments/assets/96b62b79-4ee8-4de0-a3e1-051985f3f78b" />
+<img width="486" height="1316" alt="Me" src="https://github.com/user-attachments/assets/bc62150e-b0fa-47ce-99d8-7390d05d5f0b" />
+<img width="613" height="1600" alt="WhatsApp Image 2026-05-19 at 01 27 08" src="https://github.com/user-attachments/assets/583b0d6b-87f7-43fe-98e0-e3c808581384" />
